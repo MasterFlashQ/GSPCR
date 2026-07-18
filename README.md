@@ -5,12 +5,10 @@
 
 
 # About
-*The complete code will be released after the paper is accepted.*
+**The complete code will be released after the paper is accepted.**
 
 # About
-<img width="9312" height="3653" alt="图片1" src="https://github.com/user-attachments/assets/a9487c23-e17e-49e6-bd32-7e4c610241e7" />
-
-
+<img width="1295" height="512" alt="屏幕截图 2026-07-18 202343" src="https://github.com/user-attachments/assets/63f82ad8-3716-410f-9a43-2e4af2b98a29" />
 GSPCR can sovle 4-DOF registration problem between two 3D point clouds.It achieves highly robust registration in scenarios characterized by extremely scarce initial correspondences and abundant repetitive geometric structures.
 
 # Getting started
